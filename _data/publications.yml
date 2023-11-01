@@ -3,7 +3,7 @@ main:
   - title: Collagen fiber centerline tracking in fibrotic tissue via deep neural networks with variational autoencoder-based synthetic training data generation
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     authors: Hyojoon Park, Bin Li, Yuming Liu, Michael S Nelson, Helen M Wilson, Eftychios Sifakis, Kevin W Eliceiri
-    conference_short: MedIA
+    # conference_short: MedIA
     conference: Medical Image Analysis, 2023.
     pdf: https://www.sciencedirect.com/science/article/pii/S1361841523002219
     code: https://github.com/uw-loci/collagen-fiber-metrics
