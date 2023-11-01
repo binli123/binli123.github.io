@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I obtained his PhD in Biomedical Engineering from the University of Wisconsin-Madison, where I was supervised by Dr Kevin Eliceiri. My research focuses on developing computational approaches to analyzing complex biological/histological image data for precision medicine. Currently, I am a postdoctoral researcher in the Dr Jens Rittscher group at the Institute of Biomedical Engineering, University of Oxford.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Digital Pathology:** whole slide image analysis, computational histipathology
+- **Machine Learning:** self-supervised learning, weakly-supervised learning, generative models
+- **Tissue Imaging:** tumor microenvironment, multiphoton microscopy, whole slide imaging
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2023]** Our paper about collagen fiber analysis and sythetic training data generation is accepted to Medical Image Analysis.
 
 {% include_relative _includes/publications.md %}
 
