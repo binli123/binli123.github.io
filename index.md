@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I obtained his PhD in Biomedical Engineering from the University of Wisconsin-Madison, where I was supervised by Dr Kevin Eliceiri. My research focuses on developing computational approaches to analyzing complex biological/histological image data for precision medicine. Currently, I am a postdoctoral researcher in the Dr Jens Rittscher group at the Institute of Biomedical Engineering, University of Oxford.
+I obtained my PhD in Biomedical Engineering from the University of Wisconsin-Madison, where I was supervised by Dr Kevin Eliceiri. My research focuses on developing computational approaches to analyzing complex biological/histological image data for precision medicine. Currently, I am a postdoctoral researcher in the Dr Jens Rittscher group at the Institute of Biomedical Engineering, University of Oxford. I work closely with Dr Matthias Friedrich on characterizing image biomarkers for Inflammatory Bowel Disease.
 
 ## Research Interests
 
