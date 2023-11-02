@@ -28,10 +28,10 @@ main:
     # conference_short: MedIA
     conference: Biomedical Optics Express, 2023.
     pdf: https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-2-667&id=524849
-    code: https://github.com/uw-loci/collagen-fiber-metrics
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    # code: https://github.com/uw-loci/collagen-fiber-metrics
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
 
   - title: Differentiation of pancreatic ductal adenocarcinoma and chronic pancreatitis using graph neural networks on histopathology and collagen fiber features
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
