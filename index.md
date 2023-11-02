@@ -8,7 +8,7 @@ I obtained my PhD in Biomedical Engineering from the University of Wisconsin-Mad
 
 ## Research Interests
 
-- **Digital Pathology:** whole slide image analysis, computational histipathology
+- **Digital Pathology:** whole slide image analysis, computational histopathology
 - **Machine Learning:** self-supervised learning, weakly-supervised learning, generative models
 - **Tissue Imaging:** tumor microenvironment, multiphoton microscopy, whole slide imaging
 
