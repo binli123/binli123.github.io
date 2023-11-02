@@ -22,6 +22,17 @@ main:
     # image: ./assets/img/teaser_example_2.png
     # notes: Early Accept
 
+  - title: Hardware-software co-design of an open-source automatic multimodal whole slide histopathology imaging system
+    # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    authors: Bin Li, Michael S Nelson, Jenu V Chacko, Nathan Cudworth, Kevin W Eliceiri
+    # conference_short: MedIA
+    conference: Journal of Biomedical Optics, 2023.
+    pdf: https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-28/issue-2/026501/Hardware-software-co-design-of-an-open-source-automatic-multimodal/10.1117/1.JBO.28.2.026501.full?SSO=1
+    # code: https://github.com/uw-loci/collagen-fiber-metrics
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
+
   - title: Computationally efficient adaptive decompression for whole slide image processing
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     authors: Zheyu Li, Bin Li, Kevin W Eliceiri, Vijaykrishnan Narayanan
