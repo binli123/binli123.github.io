@@ -33,60 +33,60 @@ main:
   # image: ./assets/img/teaser_example_2.png
   # notes: Early Accept
 
-  - title: Differentiation of pancreatic ductal adenocarcinoma and chronic pancreatitis using graph neural networks on histopathology and collagen fiber features
-  # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-  authors: Bin Li, Michael S Nelson, Omid Savari, Agnes G Loeffler, Kevin W Eliceiri
-  # conference_short: MedIA
-  conference: Journal of Biomedical Optics, 2022.
-  pdf: Journal of Pathology Informatics
-  # code: https://github.com/uw-loci/collagen-fiber-metrics
-  # bibtex: https://bib.yliu.me/MICCAI23.txt
-  # image: ./assets/img/teaser_example_2.png
-  # notes: Early Accept
+  # - title: Differentiation of pancreatic ductal adenocarcinoma and chronic pancreatitis using graph neural networks on histopathology and collagen fiber features
+  # # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  # authors: Bin Li, Michael S Nelson, Omid Savari, Agnes G Loeffler, Kevin W Eliceiri
+  # # conference_short: MedIA
+  # conference: Journal of Biomedical Optics, 2022.
+  # pdf: Journal of Pathology Informatics
+  # # code: https://github.com/uw-loci/collagen-fiber-metrics
+  # # bibtex: https://bib.yliu.me/MICCAI23.txt
+  # # image: ./assets/img/teaser_example_2.png
+  # # notes: Early Accept
 
-  - title: Mat-Processing in-memory acceleration for long-sequence attention
-  # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-  authors: Minxuan Zhou, Yunhui Guo, Weihong Xu, Bin Li, Kevin W Eliceiri, Tajana Rosing
-  # conference_short: MedIA
-  conference: 58th ACM/IEEE Design Automation Conference (DAC), 2022.
-  pdf: https://ieeexplore.ieee.org/abstract/document/9586212
-  # code: https://github.com/uw-loci/collagen-fiber-metrics
-  # bibtex: https://bib.yliu.me/MICCAI23.txt
-  # image: ./assets/img/teaser_example_2.png
-  # notes: Early Accept
+  # - title: Mat-Processing in-memory acceleration for long-sequence attention
+  # # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  # authors: Minxuan Zhou, Yunhui Guo, Weihong Xu, Bin Li, Kevin W Eliceiri, Tajana Rosing
+  # # conference_short: MedIA
+  # conference: 58th ACM/IEEE Design Automation Conference (DAC), 2022.
+  # pdf: https://ieeexplore.ieee.org/abstract/document/9586212
+  # # code: https://github.com/uw-loci/collagen-fiber-metrics
+  # # bibtex: https://bib.yliu.me/MICCAI23.txt
+  # # image: ./assets/img/teaser_example_2.png
+  # # notes: Early Accept
 
-  - title: Real-time polarization microscopy of fibrillar collagen in histopathology
-  # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-  authors: Adib Keikhosravi, Michael Shribak, Matthew W Conklin, Yuming Liu, Bin Li, Agnes Loeffler, Richard M Levenson, Kevin W Eliceiri
-  # conference_short: MedIA
-  conference: Scientific reports, 2021.
-  pdf: https://www.nature.com/articles/s41598-021-98600-w
-  # code: https://github.com/uw-loci/collagen-fiber-metrics
-  # bibtex: https://bib.yliu.me/MICCAI23.txt
-  # image: ./assets/img/teaser_example_2.png
-  # notes: Early Accept
+  # - title: Real-time polarization microscopy of fibrillar collagen in histopathology
+  # # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  # authors: Adib Keikhosravi, Michael Shribak, Matthew W Conklin, Yuming Liu, Bin Li, Agnes Loeffler, Richard M Levenson, Kevin W Eliceiri
+  # # conference_short: MedIA
+  # conference: Scientific reports, 2021.
+  # pdf: https://www.nature.com/articles/s41598-021-98600-w
+  # # code: https://github.com/uw-loci/collagen-fiber-metrics
+  # # bibtex: https://bib.yliu.me/MICCAI23.txt
+  # # image: ./assets/img/teaser_example_2.png
+  # # notes: Early Accept
 
-  - title: Pycro-Manager: open-source software for customized and reproducible microscope control
-  # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-  authors: Henry Pinkard, Nico Stuurman, Ivan E Ivanov, Nicholas M Anthony, Wei Ouyang, Bin Li, Bin Yang, Mark A Tsuchida, Bryant Chhun, Grace Zhang, Ryan Mei, Michael Anderson, Douglas P Shepherd, Ian Hunt-Isaak, Raymond L Dunn, Wiebke Jahr, Saul Kato, Loïc A Royer, Jay R Thiagarajah, Kevin W Eliceiri, Emma Lundberg, Shalin B Mehta, Laura Waller
-  # conference_short: MedIA
-  conference: Nature methods, 2021.
-  pdf: https://www.nature.com/articles/s41592-021-01087-6
-  # code: https://github.com/uw-loci/collagen-fiber-metrics
-  # bibtex: https://bib.yliu.me/MICCAI23.txt
-  # image: ./assets/img/teaser_example_2.png
-  # notes: Early Accept
+  # - title: Pycro-Manager: open-source software for customized and reproducible microscope control
+  # # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  # authors: Henry Pinkard, Nico Stuurman, Ivan E Ivanov, Nicholas M Anthony, Wei Ouyang, Bin Li, Bin Yang, Mark A Tsuchida, Bryant Chhun, Grace Zhang, Ryan Mei, Michael Anderson, Douglas P Shepherd, Ian Hunt-Isaak, Raymond L Dunn, Wiebke Jahr, Saul Kato, Loïc A Royer, Jay R Thiagarajah, Kevin W Eliceiri, Emma Lundberg, Shalin B Mehta, Laura Waller
+  # # conference_short: MedIA
+  # conference: Nature methods, 2021.
+  # pdf: https://www.nature.com/articles/s41592-021-01087-6
+  # # code: https://github.com/uw-loci/collagen-fiber-metrics
+  # # bibtex: https://bib.yliu.me/MICCAI23.txt
+  # # image: ./assets/img/teaser_example_2.png
+  # # notes: Early Accept
 
-  - title: Single image super-resolution for whole slide image using convolutional neural networks and self-supervised color normalization
-  # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-  authors: Bin Li, Adib Keikhosravi, Agnes G Loeffler, Kevin W Eliceiri
-  # conference_short: MedIA
-  conference: Medical Image Analysis, 2021.
-  pdf: https://www.sciencedirect.com/science/article/pii/S1361841520303029
-  # code: https://github.com/uw-loci/collagen-fiber-metrics
-  # bibtex: https://bib.yliu.me/MICCAI23.txt
-  # image: ./assets/img/teaser_example_2.png
-  # notes: Early Accept
+  # - title: Single image super-resolution for whole slide image using convolutional neural networks and self-supervised color normalization
+  # # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  # authors: Bin Li, Adib Keikhosravi, Agnes G Loeffler, Kevin W Eliceiri
+  # # conference_short: MedIA
+  # conference: Medical Image Analysis, 2021.
+  # pdf: https://www.sciencedirect.com/science/article/pii/S1361841520303029
+  # # code: https://github.com/uw-loci/collagen-fiber-metrics
+  # # bibtex: https://bib.yliu.me/MICCAI23.txt
+  # # image: ./assets/img/teaser_example_2.png
+  # # notes: Early Accept
 
   - title: Dual-stream multiple instance learning network for whole slide image classification with self-supervised contrastive learning
   # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
