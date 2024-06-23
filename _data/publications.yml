@@ -77,13 +77,24 @@ main:
     # image: ./assets/img/teaser_example_2.png
     # notes: Early Accept
 
+  - title: Open-source deep-learning software for bioimage segmentation
+    # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    authors: Alice M Lucas, Pearl V Ryder, Bin Li, Beth A Cimini, Kevin W Eliceiri, Anne E Carpenter
+    # conference_short: MedIA
+    conference: Molecular Biology of the Cell, 2021.
+    pdf: https://www.molbiolcell.org/doi/full/10.1091/mbc.E20-10-0660
+    # code: https://github.com/uw-loci/collagen-fiber-metrics
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
+
   - title: Pycro-Manager - open-source software for customized and reproducible microscope control
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     authors: Henry Pinkard, Nico Stuurman, Ivan E Ivanov, Nicholas M Anthony, Wei Ouyang, Bin Li, Bin Yang, Mark A Tsuchida, Bryant Chhun, Grace Zhang, Ryan Mei, Michael Anderson, Douglas P Shepherd, Ian Hunt-Isaak, Raymond L Dunn, Wiebke Jahr, Saul Kato, Loïc A Royer, Jay R Thiagarajah, Kevin W Eliceiri, Emma Lundberg, Shalin B Mehta, Laura Waller
     # conference_short: MedIA
     conference: Nature methods, 2021.
     pdf: https://www.nature.com/articles/s41592-021-01087-6
-    # code: https://github.com/uw-loci/collagen-fiber-metrics
+    code: https://github.com/micro-manager/pycro-manager
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
     # notes: Early Accept
@@ -105,6 +116,39 @@ main:
     # conference_short: MedIA
     conference: Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR), 2021.
     pdf: https://openaccess.thecvf.com/content/CVPR2021/html/Li_Dual-Stream_Multiple_Instance_Learning_Network_for_Whole_Slide_Image_Classification_CVPR_2021_paper.html
+    code: https://github.com/binli123/dsmil-wsi
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
+
+  - title: Non-disruptive collagen characterization in clinical histopathology using cross-modality image synthesis
+    # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    authors: Adib Keikhosravi, Bin Li, Yuming Liu, Matthew W Conklin, Agnes G Loeffler, Kevin W Eliceiri
+    # conference_short: MedIA
+    conference: Communications biology, 2020.
+    pdf: https://www.nature.com/articles/s42003-020-01151-5
+    # code: https://github.com/uw-loci/collagen-fiber-metrics
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
+
+  - title: Parallel multiphoton excited fabrication of tissue engineering scaffolds using a diffractive optical element
+    # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    authors: Farid Atry, Eric Rentchler, Samuel Alkmin, Bing Dai, Bin Li, Kevin W Eliceiri, Paul J Campagnola
+    # conference_short: MedIA
+    conference: Optics Express, 2020.
+    pdf: https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-3-2744&id=426080
+    # code: https://github.com/uw-loci/collagen-fiber-metrics
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
+
+  - title: Intensity-based registration of bright-field and second-harmonic generation images of histopathology tissue sections
+    # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    authors: Adib Keikhosravi, Bin Li, Yuming Liu, and Kevin W. Eliceiri
+    # conference_short: MedIA
+    conference: Biomedical Optics Express, 2020.
+    pdf: https://opg.optica.org/boe/fulltext.cfm?uri=boe-11-1-160&id=423960
     # code: https://github.com/uw-loci/collagen-fiber-metrics
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
